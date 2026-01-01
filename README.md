@@ -31,3 +31,8 @@ aprendendo **markdown** *usando italico agora* ~~cortando o texto~~ __*~~tudo~~*
 ### imagens
 ![Imagem valorant](stack-roast-square.png)
 [Clique aqui para acessar o youtube](https://www.youtube.com/watch?v=LntSB-gl-ZI&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=10)
+
+### Tabela
+Nome|Nota
+__|__
+Jose|1
