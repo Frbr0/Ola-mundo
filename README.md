@@ -9,7 +9,7 @@ Alterando o README diretamente no github.
 ---
 ### Markdown
 ***
-aprendendo **markdown** *usando italico agora* ~~cortando o texto~~ __*~~~tudo~~*__
+aprendendo **markdown** *usando italico agora* ~~cortando o texto~~ __*~~tudo~~*__
 listas
 numerada
 1. Primeiro item
