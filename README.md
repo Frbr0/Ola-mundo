@@ -23,6 +23,10 @@ aprendendo **markdown** *usando italico agora* ~~cortando o texto~~ __*~~tudo~~*
 * Segundo item
   * Subitem
 
-## TO DO
-- [ ] Tarefa aleatoria
+### TO DO
+- [x] Tarefa aleatoria
     - [ ] Sub tarefa aleatoria
+
+
+### imagens
+![Imagem valorant](stack-roast-square.png)
