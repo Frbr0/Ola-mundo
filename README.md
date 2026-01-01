@@ -45,7 +45,7 @@ $name = $POST["name"];
 
 echo json encode([
     "name"=> $name
-];
+]
 exit;
-)
+);
 ```
