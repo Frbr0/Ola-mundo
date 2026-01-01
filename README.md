@@ -26,4 +26,4 @@ numerada
 
 ## TO DO
 - [ ] Tarefa aleatoria
-    -[ ] Sub tarefa aleatoria
+    - [ ] Sub tarefa aleatoria
