@@ -25,5 +25,5 @@ numerada
   * Subitem
 
 ## TO DO
-- [] Tarefa aleatoria
-    -[] Sub tarefa aleatoria
+- [ ] Tarefa aleatoria
+    -[ ] Sub tarefa aleatoria
