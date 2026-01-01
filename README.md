@@ -38,4 +38,14 @@ Nome | Nota
 Jose | 1
 Francisco | 11
 
-`php` é muito feio como quem teve a ideia de colocar $ nessa linguagem `$_POST` `$_GET` que negocio horroroso
+`php` é muito feio como quem teve a ideia de colocar `$` nessa linguagem `$_POST` `$_GET` que negocio horroroso
+
+```
+$name = $POST["name"];
+
+echo json encode([
+    "name"=> $name
+];
+exit;
+)
+```
